@@ -1,0 +1,29 @@
+/*
+Theme Name: Desentupidora TecJá 2
+Author: EDER
+Author URI: http://www.eder.link
+Description: Bootstrap 5.2.x Theme
+Version: 2.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    scroll-behavior: smooth;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+a.btn-primary {
+    background-color: #0a4d97 !important;
+    border: solid 1px #ffffff;
+}
+
+a.btn-primary:hover {
+    background-color: #02376B !important;
+    border: solid 1px #ffffff;
+}
+
